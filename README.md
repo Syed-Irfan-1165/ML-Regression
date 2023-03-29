@@ -38,3 +38,4 @@ The ridge regression model is the best model for forecasting the closing price o
 # Note
 
 This project is for educational purposes only and should not be used for investment decisions.
+Thank You :)
